@@ -471,7 +471,7 @@ footer p {
   .skillsInfo,
   .aboutMe .aboutMeInfo,
   footer .wrapper {
-    padding: 1rem;
+    padding: 2em;
     text-align: justify;
   }
   .skillsInfo {
